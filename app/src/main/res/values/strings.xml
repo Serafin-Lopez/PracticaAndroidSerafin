@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PracticaAndroidSerafin</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="number_register">Número de registro</string>
+    <string name="phone">Teléfono</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Registrar</string>
+    <string name="this_field_is_required">Este campo es requerido</string>
+    <string name="error_message_invalid_email_address">Correo invalido</string>
+    <string name="error_message_invalid_password">Debe contener al menos 5 dígitos</string>
+    <string name="this_field_required_max_length">Ingrese 16 dijitos para continuar</string>
+    <string name="the_cell_phone_number_must_be_ten_digits_long">El número celular debe ser a 10 dígitos.</string>
+    <string name="error_message_invalid_phone_number">Número telefónico incorrecto</string>
+    <string name="succes_register">Registro exitoso</string>
+</resources>
